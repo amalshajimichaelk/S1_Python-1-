@@ -1,3 +1,26 @@
+'''
+Author: Amal Shaji Michael
+Date: 20-18-2024
+Description: Familiarize time and date
+             in various formats
+             (Eg. “Thu Jul 11 10:26:23 IST 2024”).
+             
+2024-10-20 18:03:43.199986
+2024-10-20 , 18:03:43
+
+Sunday,October 20,2024
+Sunday,October 20,2024 18:03:43 PM
+Sun-Oct-20 18:03:43  2024
+
+2024-10-20
+18:03:43.199986
+10
+2024
+
+
+'''
+
+
 from datetime import datetime
 current_time=datetime.now()
 print(current_time)
