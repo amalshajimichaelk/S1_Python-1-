@@ -1,6 +1,6 @@
 '''
 Author: Amal Shaji Michael
-Date: 19-18-2024
+Date: 19-10-2024
 Description: Familiarize time and date
              in various formats
              (Eg. “Thu Jul 11 10:26:23 IST 2024”).
