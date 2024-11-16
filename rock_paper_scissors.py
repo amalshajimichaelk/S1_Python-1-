@@ -1,3 +1,23 @@
+'''
+Amal Shaji Michael
+Date: 16-11-2024
+Description: program to play 'rock paper scissors' with the computer.
+
+Output:
+
+Enter rock, paper or scissors (or quit to exit): rock
+You Wins!
+Enter rock, paper or scissors (or quit to exit): paper
+Congrats! You have a Tie
+Enter rock, paper or scissors (or quit to exit): scissors
+You Wins!
+Enter rock, paper or scissors (or quit to exit): paper
+You lose
+Enter rock, paper or scissors (or quit to exit): rock
+Congrats! You have a Tie
+
+'''
+
 import random
 options=['rock','paper','scissors']
 while True:
