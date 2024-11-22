@@ -1,7 +1,10 @@
 '''                                                                               
  Author:Amal Shaji Michael                                                        
  Date: 22-11-2024                                                                 
- Description: Program to construct patterns of stars (*), using a nested for loop.
+ Description:Program which input two lists from the user. 
+ Merge these lists into a third list such that in the merged list,
+ all even numbers occur first followed by odd numbers. 
+ Both the even numbers and odd numbers should be in sorted order.
 '''                                                                               
 list_1=[12,21,54,47,88,67]
 list_2=[20,13,34,5,66,91]
