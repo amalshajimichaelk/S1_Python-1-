@@ -13,4 +13,4 @@ odd_list.sort()
 combined_list=even_list+odd_list
 print(f"Even number list: {even_list}")
 print(f"Odd number list: {odd_list}")
-print(f"Combined list: {even_list}")
+print(f"Combined list: {combined_list}")
