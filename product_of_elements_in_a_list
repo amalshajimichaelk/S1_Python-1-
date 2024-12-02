@@ -1,0 +1,18 @@
+'''
+Author: Amal Shaji Michael
+Date: 12-02-2024
+Description: Write a Python function to multiply all the numbers in a list.
+'''
+def list_product(list):
+    product=1
+    for i in list:
+        product*=i
+    print(f"The Product: {product}")
+list1=[]
+n=int(input("Enter the no.of elements: "))
+print("Enter the elements: ")
+for j in range(n):
+    element=int(input())
+    list1.append(element)
+print(f"The list: {list1}")
+list_product(list1)
